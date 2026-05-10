@@ -1,0 +1,4 @@
+pyserial
+mido
+python-rtmidi
+matplotlib
